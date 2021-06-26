@@ -35,8 +35,8 @@ Users should be able to:
 
 
 ### Links
-@Github
-- Solution URL: [Add solution URL here](https://github.com/Shameera17/3-column-preview-card-component-main.git)
+
+- Solution URL: [@Github](https://github.com/Shameera17/3-column-preview-card-component-main.git)
 
 ## My process
 
